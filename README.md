@@ -7,8 +7,13 @@
 
 ---
 
-## 📌 Thông tin sinh viên
+## 📌 Thông tin chung
 
+### 👨‍🏫 Giảng viên hướng dẫn
+- **Giảng viên lý thuyết:** TS. Đỗ Trí Nhựt
+- **Giảng viên thực hành:** TS. Đỗ Trí Nhựt
+
+### 👤 Sinh viên thực hiện
 - **Họ và tên:** Nguyễn Đức Bảo Trung
 - **MSSV:** 25521963
 - **Lớp:** IT007.R16.1 / IT007.R17
